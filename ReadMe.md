@@ -89,8 +89,7 @@ taggable-bookmark-service/
 
 Use pytest to run both unit and end-to-end tests:
 
-```bash
-pytest -v
-```
+python -m pytest
+
 
 
